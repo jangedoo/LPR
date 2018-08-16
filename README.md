@@ -3,8 +3,13 @@
 LPR(License Plate Recognition) dataset contains the cropped image of license plate of private motorbikes in Bagmati zone in Nepal. And thus contains the 12 different classes: ०-९, बा and प. **images.rar** is the compressed file for Image folder which has 12 sub folders each corresponding to the class.
 
 ## Sample
-![](https://github.com/Prasanna1991/LPR/blob/master/samples.png?raw=true)
+![](https://github.com/jangedoo/LPR/blob/master/samples.png?raw=true)
 
+I've trained a convolutional neural network to classify these images and achieved an ~86% accuracy in validation set.
+
+
+## Predictions
+![](https://github.com/jangedoo/LPR/blob/master/predictions.png?raw=true)
 
 Dataset is only allowed for research purposes and if you use this dataset in your work, please cite it as follows:
 ## Bibtex
